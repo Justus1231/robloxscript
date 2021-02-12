@@ -73,7 +73,7 @@ LiftingSimulatorHack.TextScaled = true
 LiftingSimulatorHack.TextSize = 14
 LiftingSimulatorHack.TextWrapped = true
 LiftingSimulatorHack.MouseButton1Down:connect(function()
-loadstring(game:HttpGet("https://pastebin.com/raw/YH7x3naH",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RoseLua/Rose-Hub/master/RoseHubSource.lua",true))()
 end)
 
 Btools.Name = "Btools"
